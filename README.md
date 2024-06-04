@@ -5,7 +5,7 @@ An interactive game utilizing advanced object-oriented programming (OOP) princip
 ![QGame](https://github.com/Juhwan21st/QGame/blob/main/JuhwanSeo_QGame.gif)
 
 ## Description 📖
-QGame is an interactive C# WinForms game that showcases advanced OOP concepts. The game allows users to design custom maps, save and load map files, and engage in simple yet addictive gameplay by navigating boxes to their corresponding doors using arrow keys.
+QGame is an interactive C# WinForms game that showcases advanced OOP concepts. The game allows users to design custom maps, save and load map files, and engage in simple yet addictive gameplay by navigating boxes to their corresponding doors using arrow keys. All pixel art used in the game is designed by the developer.
 
 ## Features ✨
 - **Custom Map Creation** 🛠️: Design your own game maps using the built-in editor.
